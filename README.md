@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full Stack Developer working in Rio de Janeiro, Brazil.
+#### I'm a Software Developer working in Rio de Janeiro, Brazil.
 
 ##### BIO
 
