@@ -3,5 +3,5 @@
 - 🏢 I'm currently working at **Atos**
 - ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.ts`
 - 🌱 Trying learning all about **Software Engineering**
-- 💬 Ping me about **Java**
+- 💬 Ping me about **Java** and **SpringBoot**
 - 📫 Reach me: [twitter.com/eugenissimo](https://twitter.com/eugenissimo)
