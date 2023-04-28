@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Pedro.</h2>
+<p align="center">
+  <a href="https://pedrobezerra.dev/">Resume</a> •
+  <a href="https://br.linkedin.com/in/pedrobezerradev">LinkedIn</a>
+</p>
 
-<!--
-**pedrobezerradev/pedrobezerradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [Atos](https://atos.net/en/) in the Software Development Team
+- 🌱 I’m currently learning more about cloud and development best practices
+- 💬 Ask me about **Java, Git and Linux**
+- 📫 How to reach me: [@pedrobezerradev](https://twitter.com/pedrobezerradev) on Twitter
+- ⚡ Fun fact: My github is a bit empty because I usually only contribute to repositories that pay me :stuck_out_tongue_winking_eye:
