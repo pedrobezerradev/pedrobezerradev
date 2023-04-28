@@ -5,8 +5,8 @@
 </p>
 
 
-- 🔭 I’m currently working at [Atos](https://atos.net/en/) in the Software Development Team
-- 🌱 I’m currently learning more about cloud and development best practices
+- 🔭 I’m currently working at [Atos](https://atos.net/en/) in the Software Engineering Team
+- 🌱 I’m currently learning more about Cloud and development best practices
 - 💬 Ask me about **Java, Git and Linux**
 - 📫 How to reach me: [@pedrobezerradev](https://twitter.com/pedrobezerradev) on Twitter
 - ⚡ Fun fact: My GitHub is a bit empty because I only have time to contribute to projects that pay me :stuck_out_tongue_winking_eye:
