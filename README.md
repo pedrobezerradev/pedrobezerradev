@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning more about Cloud
 - 💬 Ask me about **Java, Git and Linux**
 - 📫 Reach me: [@pedrobezerradev](https://twitter.com/pedrobezerradev) on Twitter
-- ⚡ Fun fact: I only have time for projects that pay me :stuck_out_tongue_winking_eye:
+- ⚡ Fun fact: No time, bro :punch:
