@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning more about Cloud
 - 💬 Ask me about **Java, Git and Linux**
 - 📫 Reach me: [@pedrobezerradev](https://twitter.com/pedrobezerradev) on Twitter
-- ⚡ Fun fact: No time, dude :hourglass_flowing_sand:
+- ⚡ Fun fact: no time, dude :hourglass_flowing_sand:
