@@ -5,7 +5,7 @@
 </p>
 
 
-- I’m currently working at [Atos](https://atos.net/en/) + [Elo](https://www.elo.com.br/)
+- I’m currently working at [Atos](https://atos.net/en/)
 - I’m currently learning more about **Cloud**
 - Skills: **Java, SpringBoot and Oracle**
 - Reach me: [@pedrobezerradev](https://twitter.com/pedrobezerradev) on Twitter
